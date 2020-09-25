@@ -1,5 +1,6 @@
 # Optimaxdeb
-##spanish
+##spanish and inglish
+##Español
 Sprit escrito en bash para opitimizar la mayoria de distros linux :
 basadas en debian y ubuntu
 con un kernel modificado y
